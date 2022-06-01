@@ -1,17 +1,17 @@
 <SCRIPT>
 function passWord() {
 var testV = 1;
-var pass1 = prompt('请输入本站的域名(longz7z8.com.cn)以确认访问','');
+var pass1 = prompt('请输入本站的域名(longz7z8.com.cn)以确认获取资源','');
 while (testV < 3) {
 if (!pass1) 
 history.go(-1);
 if (pass1.toLowerCase() == "longz7z8.com.cn") {
-window.open('https://longz7z8.com.cn/zym');
+window.open('https://longz7z8.com.cn/Typora-ok.html');
 break;
 } 
 testV+=1;
 var pass1 = 
-prompt('验证错误！请重新输入本站域名(longz7z8.com.cn)以确认访问','');
+prompt('验证错误！请重新输入本站域名(longz7z8.com.cn)以确认获取资源','');
 }
 if (pass1.toLowerCase()!="password" & testV ==3) 
 history.go(-1);
