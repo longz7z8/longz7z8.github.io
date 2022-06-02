@@ -12,7 +12,7 @@
                <key>kind</key>
                <string>software-package</string>
                <key>url</key>
-               <string><![CDATA[https://www.longz7z8.com.cn/files/%E6%82%9F%E7%A9%BA%E8%B9%A6%E8%B9%A6%E8%B9%A6_1.1.1.ipa]]></string>
+               <string><![CDATA[https://www.longz7z8.com.cn/files/wukong.ipa]]></string>
              </dict>
              <dict>
                <key>kind</key>
@@ -20,7 +20,7 @@
                <key>needs-shine</key>
                <integer>0</integer>
                <key>url</key>
-               <string><![CDATA[https://www.longz7z8.com.cn/files/%E6%82%9F%E7%A9%BA%E8%B9%A6%E8%B9%A6%E8%B9%A6.jpg]]></string>
+               <string><![CDATA[https://www.longz7z8.com.cn/files/wukong.jpg]]></string>
              </dict>
              <dict>
                <key>kind</key>
@@ -28,7 +28,7 @@
                <key>needs-shine</key>
                <true/>
                <key>url</key>
-               <string><![CDATA[https://www.longz7z8.com.cn/files/%E6%82%9F%E7%A9%BA%E8%B9%A6%E8%B9%A6%E8%B9%A6.jpg]]></string>
+               <string><![CDATA[https://www.longz7z8.com.cn/files/wukong.jpg]]></string>
              </dict>
            </array>
            <key>metadata</key>
